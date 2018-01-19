@@ -1,0 +1,36 @@
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\юзер\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\АбишевАс\Downloads\Calculator_V3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\АбишевАс\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\юзер\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\юзер\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\юзер\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\юзер\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
